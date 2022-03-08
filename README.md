@@ -9,7 +9,4 @@ outlook = Outlook(
           email     = "",
           password  = ""
 )
-
-outlook.setup(subject = "✉️.py", content = "better") # Configure email #
-outlook.send (target  = "mail.py@outlook.com") # Send the email #
 ```
